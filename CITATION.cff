@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: 'If you use this toolkit, please cite it using the metadata below.'
+type: software
+title: ZKTeco Linux Toolkit
+abstract: 'Python scripts for ZKTeco biometric terminals on Linux/macOS — door unlock, attendance CSV export, time sync, Zoho People sync. No Windows required.'
+authors:
+  - family-names: Aggarwal
+    given-names: Vibhav
+    orcid: 'https://orcid.org/0009-0000-7686-7119'
+    affiliation: 'Independent Researcher, Gurugram, India'
+version: 1.0.0
+date-released: 2026-05-03
+license: MIT
+repository-code: 'https://github.com/Vibhav-Aggarwal/zkteco-linux-toolkit'
+keywords:
+  - ZKTeco
+  - biometric
+  - Linux
+  - attendance
+  - IoT
+  - Python
