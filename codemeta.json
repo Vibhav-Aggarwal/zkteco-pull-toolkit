@@ -1,0 +1,31 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "zkteco-pull-toolkit",
+  "name": "ZKTeco Pull Protocol Linux Toolkit",
+  "description": "Production Python CLI tools for ZKTeco port 4370 Pull protocol: attendance CSV export, door unlock, time sync, and Zoho People sync.",
+  "license": "https://spdx.org/licenses/Apache-2.0",
+  "programmingLanguage": [
+    "Python",
+    "Shell",
+    "Markdown"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Vibhav",
+      "familyName": "Aggarwal",
+      "@id": "https://orcid.org/0009-0000-7686-7119"
+    }
+  ],
+  "codeRepository": "https://github.com/Vibhav-Aggarwal/zkteco-pull-toolkit",
+  "issueTracker": "https://github.com/Vibhav-Aggarwal/zkteco-pull-toolkit/issues",
+  "keywords": [
+    "zkteco",
+    "pyzk",
+    "attendance",
+    "door-unlock",
+    "zoho-people",
+    "linux-automation"
+  ]
+}
